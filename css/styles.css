@@ -31,19 +31,19 @@ section {
   flex-direction: column;
 }
 
-.commit1-content {
+.commit-content {
   width: 500px;
   border-radius: 5px;
   border: 1px solid var(--brown-light);
   overflow: hidden;
 }
-.commit1-title {
+.commit-title {
   width: 100%;
   background-color: var(--brown-light);
   color: var(--white);
   text-align: center;
 }
-.commit1-text {
+.commit-text {
   width: 100%;
   color: var(--brown-light);
 }
